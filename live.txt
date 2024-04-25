@@ -1,99 +1,89 @@
-🇨🇳卫视频道,#genre#
-河南卫视,http://61.54.14.232:9801/tsfile/live/1016_1.m3u8
-湖南卫视,http://61.54.14.232:9801/tsfile/live/1017_1.m3u8
-江苏卫视,http://61.54.14.232:9801/tsfile/live/1018_1.m3u8
-浙江卫视,http://61.54.14.232:9801/tsfile/live/1019_1.m3u8
-北京卫视,http://61.54.14.232:9801/tsfile/live/1020_1.m3u8
-上海卫视,http://61.54.14.232:9801/tsfile/live/1021_1.m3u8
-天津卫视,http://61.54.14.232:9801/tsfile/live/1022_1.m3u8
-山东卫视,http://61.54.14.232:9801/tsfile/live/1023_1.m3u8
-安徽卫视,http://61.54.14.232:9801/tsfile/live/1024_1.m3u8
-深圳卫视,http://61.54.14.232:9801/tsfile/live/1025_1.m3u8
-江西卫视,http://61.54.14.232:9801/tsfile/live/1026_1.m3u8
-湖北卫视,http://61.54.14.232:9801/tsfile/live/1027_1.m3u8
-四川卫视,http://61.54.14.232:9801/tsfile/live/1028_1.m3u8
-云南卫视,http://61.54.14.232:9801/tsfile/live/1029_1.m3u8
-贵州卫视,http://61.54.14.232:9801/tsfile/live/1030_1.m3u8
-辽宁卫视,http://61.54.14.232:9801/tsfile/live/1031_1.m3u8
-东南卫视,http://61.54.14.232:9801/tsfile/live/1032_1.m3u8
-重庆卫视,http://61.54.14.232:9801/tsfile/live/1033_1.m3u8
-广东卫视,http://61.54.14.232:9801/tsfile/live/1034_1.m3u8
-广西卫视,http://61.54.14.232:9801/tsfile/live/1035_1.m3u8
-河北卫视,http://61.54.14.232:9801/tsfile/live/1036_1.m3u8
-吉林卫视,http://61.54.14.232:9801/tsfile/live/1037_1.m3u8
-山西卫视,http://61.54.14.232:9801/tsfile/live/1038_1.m3u8
-陕西卫视,http://61.54.14.232:9801/tsfile/live/1039_1.m3u8
-甘肃卫视,http://61.54.14.232:9801/tsfile/live/1040_1.m3u8
-宁夏卫视,http://61.54.14.232:9801/tsfile/live/1041_1.m3u8
-青海卫视,http://61.54.14.232:9801/tsfile/live/1042_1.m3u8
-内蒙古卫视,http://61.54.14.232:9801/tsfile/live/1043_1.m3u8
-CETV-1,http://61.54.14.232:9801/tsfile/live/1044_1.m3u8
-新疆卫视,http://61.54.14.232:9801/tsfile/live/1045_1.m3u8
-厦门卫视,http://61.54.14.232:9801/tsfile/live/1046_1.m3u8
-兵团卫视,http://61.54.14.232:9801/tsfile/live/1047_1.m3u8
 🇨🇳央视频道,#genre#
-CCTV-1 综合,http://61.54.14.232:9801/tsfile/live/1001_1.m3u8
-CCTV-2 财经,http://61.54.14.232:9801/tsfile/live/1002_1.m3u8
-CCTV-3 综艺,http://61.54.14.232:9801/tsfile/live/1003_1.m3u8
-CCTV-4 中文国际,http://61.54.14.232:9801/tsfile/live/1004_1.m3u8
-CCTV-5 体育,http://61.54.14.232:9801/tsfile/live/1005_1.m3u8
-CCTV-6 电影,http://61.54.14.232:9801/tsfile/live/1006_1.m3u8
-CCTV-7 国防军事,http://61.54.14.232:9801/tsfile/live/1007_1.m3u8
-CCTV-8 电视剧,http://61.54.14.232:9801/tsfile/live/1008_1.m3u8
-CCTV-9 记录,http://61.54.14.232:9801/tsfile/live/1009_1.m3u8
-CCTV-10 科教,http://61.54.14.232:9801/tsfile/live/1010_1.m3u8
-CCTV-11,http://61.54.14.232:9801/tsfile/live/1011_1.m3u8
-CCTV-12 社会与法,http://61.54.14.232:9801/tsfile/live/1012_1.m3u8
-CCTV-13 新闻,http://61.54.14.232:9801/tsfile/live/1013_1.m3u8
-CCTV-14 少儿,http://61.54.14.232:9801/tsfile/live/1014_1.m3u8
-CCTV-15 音乐,http://61.54.14.232:9801/tsfile/live/1015_1.m3u8
-🎞️电影联通线路,#genre#
-射雕英雄传,https://live.metshop.top/yy/40959929
-神雕侠侣,https://live.metshop.top/yy/1351762426
-倚天屠龙记,https://live.metshop.top/yy/1449856066
-天龙八部,https://live.metshop.top/yy/1351814644
-笑傲江湖,https://live.metshop.top/yy/1354936128
-鹿鼎记,https://live.metshop.top/yy/28265277
-寻秦记,https://live.metshop.top/yy/1382749900
-封神榜,https://live.metshop.top/yy/1353426319
-新白娘子传奇,https://live.metshop.top/yy/1354490667
-新白娘子传奇-修复版,https://live.metshop.top/yy/1354930969
-钟馗传说,https://live.metshop.top/yy/1382736839
-红楼梦,https://live.metshop.top/yy/1382745084
-三国演义,https://live.metshop.top/yy/1354936241
-西游记后传,https://live.metshop.top/yy/1353392400
-少年包青天,https://live.metshop.top/yy/38498680
-宰相刘罗锅,https://live.metshop.top/yy/1353892468
-雍正王朝,https://live.metshop.top/yy/23206872
-神探狄仁杰,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1351755386
-庆余年,http://diyp.112114.xyz/douyu/7489563
-陈情令,https://live.metshop.top/yy/1382745121
-知否知否应是绿肥红瘦,https://live.metshop.top/yy/21881901
-仙剑奇侠传,https://live.metshop.top/yy/1382749903
-金装四大才子,https://live.metshop.top/yy/1354926600
-公主嫁到,https://live.metshop.top/yy/1382736915
-耀舞长安,https://live.metshop.top/yy/1382741640
-上海滩,https://live.metshop.top/yy/1382745184
-大时代,https://live.metshop.top/yy/1354930891
-法证先锋,https://live.metshop.top/yy/1354930965
-陀枪师姐,https://live.metshop.top/yy/1382688521
-飞虎之潜行极战,https://live.metshop.top/yy/1354932420
-放羊的星星,https://live.metshop.top/yy/1355260662
-天道,https://live.metshop.top/yy/1382735574
-安家,https://live.metshop.top/yy/12086226
-欢乐颂,https://live.metshop.top/yy/1382735624
-平凡岁月,https://live.metshop.top/yy/1382745117
-苦乐村官,https://live.metshop.top/yy/1382736864
-金星脱口秀,https://live.metshop.top/yy/1354932407
-航拍中国第1季,https://live.metshop.top/yy/1354936136
-美亚电影台,http://198.16.100.90:8278/meiyamovie_twn/playlist.m3u8?tid=MFEF1001328410013284&ct=19226&tsum=9839709ca0f37641c5d1ba962c3bc739
-星卫电影,http://198.16.100.90:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2
-龙祥电影,http://50.7.238.114:8278/lungxiangtime_twn/playlist.m3u8?tid=MADA6805114368051143&ct=18392&tsum=d6a1f02ca9abd5368d2a365e40247ae8
-龙华电影,http://50.7.238.114:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2
-东森电影,http://198.16.100.90:8278/ettvmovie/playlist.m3u8?tid=md2ba4c243ed411481253&ct=17874&tsum=4637ffbc3260e78931b566300e618313
-东森洋片,http://50.7.238.114:8278/ettvwestern/playlist.m3u8?tid=mfdfc048e6c2416337202&ct=17874&tsum=cad39b26202d525ea820bee1d69e545f
-CHC家庭影院,http://222.134.240.136:9901/tsfile/live/1031_1.m3u8?url=tvzb.com
-CINEMAX,http://50.7.238.114:8278/cinemax_twn/playlist.m3u8?tid=MF6F1142326311423263&ct=19254&tsum=716939f2b6d75d0bb83a4c780e00dbd3
-HBO,http://50.7.238.114:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
-HBO家庭,http://50.7.238.114:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853
+CCTV-1 综合,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
+CCTV-2 财经,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226466/index.m3u8
+CCTV-3 综艺,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226461/index.m3u8
+CCTV-4 中文国际,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226461/index.m3u8
+CCTV-5 体育,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226487/index.m3u8
+CCTV-6 电影,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226487/index.m3u8
+CCTV-7 国防军事,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226486/index.m3u8
+CCTV-8 电视剧,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226486/index.m3u8
+CCTV-9 记录,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226482/index.m3u8
+CCTV-10 科教,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226482/index.m3u8
+CCTV-11,戏曲,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226481/index.m3u8
+CCTV-12 社会与法,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226481/index.m3u8
+CCTV-13 新闻,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
+CCTV-14 少儿,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
+CCTV-15 音乐,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226478/index.m3u8
+🇨🇳卫视频道,#genre#
+河南卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8#http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226463/index.m3u8
+浙江卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226448/index.m3u8
+东方卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
+江苏卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226451/index.m3u8
+北京卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226452/index.m3u8
+广东卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226454/index.m3u8
+黑龙江卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226453/index.m3u8
+山东卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
+安徽卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226455/index.m3u8
+辽宁卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226457/index.m3u8
+陕西卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226458/index.m3u8
+贵州卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226460/index.m3u8
+河北卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226462/index.m3u8
+江西卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
+湖南卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226431/index.m3u8
+深圳卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226426/index.m3u8
+四川卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226429/index.m3u8
+湖北卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226424/index.m3u8
+天津卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226422/index.m3u8
+云南卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226427/index.m3u8
+重庆卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226420/index.m3u8
+吉林卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
+宁夏卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226418/index.m3u8
+东南卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226423/index.m3u8
+内蒙古卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226421/index.m3u8
+广西卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226416/index.m3u8
+山西卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226419/index.m3u8
+海南卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226417/index.m3u8
+甘肃卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226415/index.m3u8
+青海卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226414/index.m3u8
+新疆卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
+西藏卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226408/index.m3u8
+金鹰卡通,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226413/index.m3u8
+嘉佳卡通,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226412/index.m3u8
+卡酷动画,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226411/index.m3u8
+哈哈炫动,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226410/index.m3u8
+优漫卡通,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
+河南频道,#genre#
+河南卫视,
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8#http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226463/index.m3u8
+都市频道,
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226430/index.m3u8
+民生频道,
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226433/index.m3u8
+法治频道,
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226435/index.m3u8
+电视剧频道,
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226437/index.m3u8
+新闻频道,
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
+公共频道,
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226441/index.m3u8
+新农村频道,
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226443/index.m3u8
+河南国际,
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226434/index.m3u8
+晴彩中原,
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226445/index.m3u8
+移动戏曲,
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226436/index.m3u8
+文物宝库,
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226447/index.m3u8
+梨园频道,
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226438/index.m3u8
+武术世界,
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226440/index.m3u8
+调解剧场,
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
+风尚河南,
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226446/index.m3u8
+
 
